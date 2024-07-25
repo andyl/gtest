@@ -4,6 +4,7 @@ defmodule Zipper.MixProject do
   @version "0.1.0"
   @source_url "https://github.com/andyl/gtest"
 
+  # COMMENT
   def project do
     [
       app: :zipper,
